@@ -1,38 +1,28 @@
-***Instructions for Isolating Specific Columns of County Health Data***
 
-**Getting started:**
+###Obesity Rates vs. Food Availability On a National Level
 
-Importing numpy and pandas. Run the following codes:
-     import numpy as np
-     import pandas as pd
+**What is included in this repository***
+-The Python3 notebook documenting the manipulation of the raw data into a subset of new data. 
+-The original raw data: CountyHealthData_2014-2015.csv
+-The modified data subset: Subset.csv
+-Three heatmap visualizations depicting the prevalence of Adult Obesity, Limited Access to Healthy Foods, and Food Insecurity across the state of North Carolina
+-README file 
 
-**Defining a data frame:**
+**Purpose**: to qualitatively and quantitatively illustrate the relationship between Adult Obesity, Limited Access to Healthy Foods, and Food Insecurity across the state of North Carolina. 
 
- Note that a data frame can be defined as anything. "df" was chosen for simplicity's sake. Run the following code and ensure that the file name is typed in accurately.
- 
-     df=pd.read_csv('CountyHealthData_2014-2015.csv') 
+     *Data Visualization*: As an example of the potential uses of this data manipulation method, the rates of adult obesity, limited access to healthy foods, and food insecurity in the state of North Carolina were isolated from the raw data set. This subset (quantitative) was then input into Datawrapper and used to create three heatmap visualizations (qualitative). 
+     ![data-viz_Adult_Obesity](/Heatmap Visualizations/Adult Obesity By NC County_Visualization.png)
+     ![data-viz_Adult_Obesity](/Heatmap Visualizations/Food Insecurity By NC County_Visualization.png)
+     ![data-viz_Adult_Obesity](/Heatmap Visualizations/Limited Access To Healthy Foods By NC County_Visualization.png)
 
- **Isolating specific columns:**
+**Potential**: Only the state of North Carolina was examined in the example above, however, the data subset created (full instructions are in the file called Python_Notebook_AnnaMaria.ipynb) could be used to analyze any of the states and counties included in the original raw data file. 
 
-Use df.loc function to call up specific columns from the data frame. Ensure that the following code is typed in accurately, otherwise error may occur. Note that any column from the data frame can be called up as long as the name of the column is entered in a way that is consistent with the following format:
+Potential uses for the data include: 
+  1. At-a-glance trend visualization for public health professionals regarding the state of obesity rates.
+  2. Correlational/observational public health studies.
+  3. Indication of which geographical areas are in most need of public health initiatives.
 
-     df.loc[:,["State","Region","County","Food insecurity","Limited access to healthy foods", "Adult obesity"]]
-
-Note that the "x variable" of the df.loc code input is a colon. This tells colab to only select columns and include all rows.
-
-**Defining the new data set:**
-
-At this point, a new subset of the original data frame has been created. In order to define this subset as a new data frame, define it with the following code. Note that it can be defined as anything: "subset" was chosen for simplicity's sake.
-
-     Subset = df.loc[:,["State","Region","County","Food insecurity","Limited access to healthy foods", "Adult obesity"]]
-
-**Exporting the csv file:**
-
-Export the subset defined in the previous step with the following code. Note that "Subset.csv" will be the name of the exported file, and can be anything so long as the format of the code is consitent with the following:
-
-     Subset.to_csv("Subset.csv")
-
-Your csv file has now been exported. Happy coding! 
+**Provenance**: the CountyHealthData_2014-2015.csv provided by Professor Gotzler was used as raw data.
 
 
 
