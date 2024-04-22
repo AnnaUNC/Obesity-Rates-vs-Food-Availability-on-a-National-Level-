@@ -21,7 +21,7 @@ Help! I can't get these to work:
 
 **Potential**: Only the state of North Carolina was examined in the example above, however, the data subset created (full instructions are in the file called Python_Notebook_AnnaMaria.ipynb) could be used to analyze any of the states and counties included in the original raw data file. 
 
-Potential uses for the data include: 
+*Potential uses for the data include:*
   1. At-a-glance trend visualization for public health professionals regarding the state of obesity rates.
   2. Correlational/observational public health studies.
   3. Indication of which geographical areas are in most need of public health initiatives.
