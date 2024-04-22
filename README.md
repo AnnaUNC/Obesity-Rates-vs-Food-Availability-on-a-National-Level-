@@ -1,4 +1,4 @@
-###Instructions for Isolating Specific Columns of County Health Data
+##Instructions for Isolating Specific Columns of County Health Data
 
 **Getting started:**
 
