@@ -1,5 +1,5 @@
 
-###Obesity Rates vs. Food Availability On a National Level
+Obesity Rates vs. Food Availability On a National Level
 
 **What is included in this repository***
 -The Python3 notebook documenting the manipulation of the raw data into a subset of new data. 
@@ -10,7 +10,7 @@
 
 **Purpose**: to qualitatively and quantitatively illustrate the relationship between Adult Obesity, Limited Access to Healthy Foods, and Food Insecurity across the state of North Carolina. 
 
-     *Data Visualization*: As an example of the potential uses of this data manipulation method, the rates of adult obesity, limited access to healthy foods, and food insecurity in the state of North Carolina were isolated from the raw data set. This subset (quantitative) was then input into Datawrapper and used to create three heatmap visualizations (qualitative). 
+*Data Visualization*: As an example of the potential uses of this data manipulation method, the rates of adult obesity, limited access to healthy foods, and food insecurity in the state of North Carolina were isolated from the raw data set. This subset (quantitative) was then input into Datawrapper and used to create three heatmap visualizations (qualitative). 
      ![data-viz_Adult_Obesity](/Heatmap Visualizations/Adult Obesity By NC County_Visualization.png)
      ![data-viz_Adult_Obesity](/Heatmap Visualizations/Food Insecurity By NC County_Visualization.png)
      ![data-viz_Adult_Obesity](/Heatmap Visualizations/Limited Access To Healthy Foods By NC County_Visualization.png)
