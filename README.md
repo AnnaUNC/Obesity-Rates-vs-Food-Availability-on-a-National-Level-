@@ -2,11 +2,11 @@
 ##Obesity Rates vs. Food Availability On a National Level    for some reason this isn't working here?
 
 **What is included in this repository***
--The Python3 notebook documenting the manipulation of the raw data into a subset of new data. 
--The original raw data: CountyHealthData_2014-2015.csv
--The modified data subset: Subset.csv
--Three heatmap visualizations depicting the prevalence of Adult Obesity, Limited Access to Healthy Foods, and Food Insecurity across the state of North Carolina
--README file 
+1. The Python3 notebook documenting the manipulation of the raw data into a subset of new data.
+2. The original raw data: CountyHealthData_2014-2015.csv
+3. The modified data subset: Subset.csv
+4. Three heatmap visualizations depicting the prevalence of Adult Obesity, Limited Access to Healthy Foods, and Food Insecurity across the state of North Carolina
+5. README file 
 
 **Purpose**: to qualitatively and quantitatively illustrate the relationship between Adult Obesity, Limited Access to Healthy Foods, and Food Insecurity across the state of North Carolina. 
 
