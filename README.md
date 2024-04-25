@@ -13,10 +13,16 @@
 
 
 ![data-viz_Adult_Obesity](/Heatmap Visualizations/Adult Obesity By NC County_Visualization.png)
+
+
       
 ![data-viz_Adult_Obesity](/Heatmap Visualizations/Food Insecurity By NC County_Visualization.png)
+
+
       
 ![data-viz_Adult_Obesity](/Heatmap Visualizations/Limited Access To Healthy Foods By NC County_Visualization.png)
+
+
 
 **Potential**: Only the state of North Carolina was examined in the example above, however, the data subset created (full instructions are in the file called Python_Notebook_AnnaMaria.ipynb) could be used to analyze any of the states and counties included in the original raw data file. 
 
