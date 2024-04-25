@@ -14,9 +14,9 @@ To qualitatively and quantitatively illustrate the relationship between Adult Ob
 
 ![alt-text](heatmap_visualizations/adult_obesity_by_nc_county_visualization.png)
 
-![data-viz](/Heatmap Visualizations/Adult Obesity By NC County_Visualization.png)
- 
-![data-viz](/Heatmap Visualizations/Food Insecurity By NC County_Visualization.png)
+![alt-text](heatmap_visualizations/food_insecurity_by_nc_county_visualization.png)
+
+
       
 ![data-viz](/Heatmap Visualizations/Limited Access To Healthy Foods By NC County_Visualization.png)
 
