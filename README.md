@@ -17,14 +17,17 @@
       
 ![data-viz](/Heatmap Visualizations/Limited Access To Healthy Foods By NC County_Visualization.png)
 
-*Permalinks to data visualizations:
+*Permalinks to data visualizations:*
 **Adult Obesity by NC County**
+
 https://github.com/AnnaUNC/Obesity-Rates-vs-Food-Availability-on-a-National-Level-/blob/527ab92638f2c8f7a30604a5a47b991e32868571/Heatmap%20Visualizations/Adult%20Obesity%20By%20NC%20County_Visualization.png
 
 **Food Insecurity By NC County**
+
 https://github.com/AnnaUNC/Obesity-Rates-vs-Food-Availability-on-a-National-Level-/blob/dce2b7aa27e4cae046de349ebaff39023fd35655/Heatmap%20Visualizations/Food%20Insecurity%20By%20NC%20County_Visualization.png
 
 **Limited Access to Healthy Foods By NC County**
+
 https://github.com/AnnaUNC/Obesity-Rates-vs-Food-Availability-on-a-National-Level-/blob/c9558cff94b98ab095c678f3efeca3617ca674ec/Heatmap%20Visualizations/Limited%20Access%20To%20Healthy%20Foods%20By%20NC%20County_Visualization.png 
 
 **Potential**: Only the state of North Carolina was examined in the example above, however, the data subset created (full instructions are in the file called Python_Notebook_AnnaMaria.ipynb) could be used to analyze any of the states and counties included in the original raw data file. 
