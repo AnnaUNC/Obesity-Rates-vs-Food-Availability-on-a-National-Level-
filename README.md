@@ -1,4 +1,4 @@
-######Obesity Rates vs. Food Availability On a National Level    
+****Obesity Rates vs. Food Availability On a National Level****  
 
 **What is included in this repository**
 1. The Python3 notebook documenting the manipulation of the raw data into a subset of new data.
@@ -37,7 +37,8 @@ https://github.com/AnnaUNC/Obesity-Rates-vs-Food-Availability-on-a-National-Leve
   2. Correlational/observational public health studies.
   3. Indication of which geographical areas are in most need of public health initiatives.
 
-**Provenance**: the CountyHealthData_2014-2015.csv provided by Professor Gotzler was used as raw data.
+**Provenance**: the CountyHealthData_2014-2015.csv provided by 
+### Professor Gotzler was used as raw data.
 
 
 
