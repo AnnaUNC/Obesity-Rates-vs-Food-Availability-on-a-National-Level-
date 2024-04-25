@@ -12,11 +12,11 @@ To qualitatively and quantitatively illustrate the relationship between Adult Ob
 
 *Data Visualization*: As an example of the potential uses of this data manipulation method, the rates of adult obesity, limited access to healthy foods, and food insecurity in the state of North Carolina were isolated from the raw data set. This subset (quantitative) was then input into Datawrapper and used to create three heatmap visualizations (qualitative). 
 
-![](/Heatmap Visualizations/Adult Obesity By NC County_Visualization.png)
+![data-viz](/Heatmap Visualizations/Adult Obesity By NC County_Visualization.png)
  
-![](/Heatmap Visualizations/Food Insecurity By NC County_Visualization.png)
+![data-viz](/Heatmap Visualizations/Food Insecurity By NC County_Visualization.png)
       
-![](/Heatmap Visualizations/Limited Access To Healthy Foods By NC County_Visualization.png)
+![data-viz](/Heatmap Visualizations/Limited Access To Healthy Foods By NC County_Visualization.png)
 
 *Permalinks to data visualizations:*
 
@@ -40,7 +40,7 @@ Only the state of North Carolina was examined in the example above, however, the
   2. Correlational/observational public health studies.
   3. Indication of which geographical areas are in most need of public health initiatives.
 
-###**Provenance**: 
+### **Provenance**: 
 The CountyHealthData_2014-2015.csv provided by Professor Gotzler was used as raw data.
 
 
