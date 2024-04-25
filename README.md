@@ -1,6 +1,6 @@
-##Obesity Rates vs. Food Availability On a National Level    for some reason this isn't working here?
+##Obesity Rates vs. Food Availability On a National Level    
 
-**What is included in this repository***
+**What is included in this repository**
 1. The Python3 notebook documenting the manipulation of the raw data into a subset of new data.
 2. The original raw data: CountyHealthData_2014-2015.csv
 3. The modified data subset: Subset.csv
@@ -11,13 +11,12 @@
 
 *Data Visualization*: As an example of the potential uses of this data manipulation method, the rates of adult obesity, limited access to healthy foods, and food insecurity in the state of North Carolina were isolated from the raw data set. This subset (quantitative) was then input into Datawrapper and used to create three heatmap visualizations (qualitative). 
 
-Help! I can't get these to work:
 
-      ![data-viz_Adult_Obesity](Heatmap Visualizations/Adult Obesity By NC County_Visualization.png)
+      ![data-viz_Adult_Obesity](/Heatmap Visualizations/Adult Obesity By NC County_Visualization.png)
       
-      ![data-viz_Adult_Obesity](Heatmap Visualizations/Food Insecurity By NC County_Visualization.png)
+      ![data-viz_Adult_Obesity](/Heatmap Visualizations/Food Insecurity By NC County_Visualization.png)
       
-      ![data-viz_Adult_Obesity](Heatmap Visualizations/Limited Access To Healthy Foods By NC County_Visualization.png)
+      ![data-viz_Adult_Obesity](/Heatmap Visualizations/Limited Access To Healthy Foods By NC County_Visualization.png)
 
 **Potential**: Only the state of North Carolina was examined in the example above, however, the data subset created (full instructions are in the file called Python_Notebook_AnnaMaria.ipynb) could be used to analyze any of the states and counties included in the original raw data file. 
 
